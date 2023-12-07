@@ -91,9 +91,9 @@
 
   /* Styling the Links inside the main Drop-down */
 
-  .main-dropdown button {
+  /* .main-dropdown button {
 
-  }
+  } */
   .dropdown-content{
     height: 300px;
   }
@@ -123,12 +123,12 @@
   }
 
   /* Change color on hover */
-  .dropdown-content a:hover {
-  }
+  /* .dropdown-content a:hover {
+  } */
 
   /* Show the dropdown menu on hover */
-  .main-dropdown:hover .dropdown-content {
-  }
+  /* .main-dropdown:hover .dropdown-content {
+  } */
 
   /* Styling the Links beside the Nav Menu */
 
